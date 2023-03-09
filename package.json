@@ -1,0 +1,19 @@
+{
+  "name": "@greygroundstudio/bp",
+  "version": "1.0.0",
+  "description": "Simple @bp screen size media query mixin for SASS.",
+  "main": "_index.scss",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadeByGreyhound/bp.git"
+  },
+  "keywords": [
+    "sass"
+  ],
+  "author": "Greyhound Studio <hello@greyhound.studio>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MadeByGreyhound/bp/issues"
+  },
+  "homepage": "https://github.com/MadeByGreyhound/bp"
+}
