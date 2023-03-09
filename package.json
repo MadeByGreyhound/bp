@@ -1,5 +1,5 @@
 {
-  "name": "@greygroundstudio/bp",
+  "name": "@greyhoundstudio/bp",
   "version": "1.0.0",
   "description": "Simple @bp screen size media query mixin for SASS.",
   "main": "_index.scss",
